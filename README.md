@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Naman 👋
 
-<!--
-**naman-1727/naman-1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student @ San Jose State University (Class of 2029), working at the intersection of machine learning, predictive analytics, and real-world hardware systems.
 
-Here are some ideas to get you started:
+**Currently:** Seasonal RF/Wireless Testing Technician @ UL Solutions — hands-on SAR, mmWave & FCC compliance testing of consumer wireless devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research:** 8× published researcher in IJERT across AI/ML, healthcare analytics, autonomous vehicles, sports analytics, climate forecasting, environmental engineering, finance, and ethics in AI.
+
+**Goal:** ML/AI or Data Science Internship @ Apple · Summer 2027
+
+---
+
+### What I work on
+- Machine learning models for healthcare, finance & sports analytics
+- Python data pipelines, statistical analysis & Power BI dashboards
+- Research on AI ethics, bias mitigation & real-world ML applications
+
+### Currently learning
+- scikit-learn · PyTorch · deep learning fundamentals
+- Data structures & algorithms (LeetCode)
+
+---
+
+📫 namanhitesh.sanghvi@sjsu.edu
+🔗 [LinkedIn](https://linkedin.com/in/naman-s1727) · San Jose, CA
